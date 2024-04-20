@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jitender
-- 👀 I’m interested in Data Analysis, Statistical Modeling, and Visual Storytelling.
-- 🌱 I’m currently learning R, Python, and Statistical Methoding.
+- 👀 I’m a software developer with experience in SAS programming for Data Analysis, Statistical Modeling, and Visual Storytelling.
+- 🌱 I’m currently learning Python, and Statistical Methoding.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me jitender.s.thakur@gmail.com
 
